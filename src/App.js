@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>  
-        <Route path="/" element={<Home />} />       
+        <Route path="/task-metabnb" element={<Home />} />       
         <Route path="/place-to-stay" element={<Place />} />       
         <Route path="/nft" element={<Nft />} />       
         <Route path="/community" element={<Community />} />       
