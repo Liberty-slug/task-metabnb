@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/task-metabnb/static/css/main.992be14b.css",
+    "main.js": "/task-metabnb/static/js/main.26092be1.js",
+    "static/media/image7.png": "/task-metabnb/static/media/image7.644b01a9ca33b9edc652.png",
+    "static/media/image9.png": "/task-metabnb/static/media/image9.ff827d27aafc649f8e45.png",
+    "static/media/image8.png": "/task-metabnb/static/media/image8.bcea9813ac72b4b587a1.png",
+    "static/media/Frame6.png": "/task-metabnb/static/media/Frame6.44fca6916d0d4697677f.png",
+    "static/media/Frame3.png": "/task-metabnb/static/media/Frame3.707d3a70e29437e2b16d.png",
+    "static/media/Frame12.png": "/task-metabnb/static/media/Frame12.0e96385ae823ebf35cac.png",
+    "static/media/Frame11.png": "/task-metabnb/static/media/Frame11.20c3d45e7fe308ff84cd.png",
+    "static/media/Frame8.png": "/task-metabnb/static/media/Frame8.4f4ad0b7e74d98608418.png",
+    "static/media/Frame13.png": "/task-metabnb/static/media/Frame13.da47faf346cde7791b8a.png",
+    "static/media/Frame16.png": "/task-metabnb/static/media/Frame16.bf1b80f8621080866ea1.png",
+    "static/media/Frame4.png": "/task-metabnb/static/media/Frame4.43d4cf4eb2d63ef5b60f.png",
+    "static/media/Frame14.png": "/task-metabnb/static/media/Frame14.18db18b1a765996af9e2.png",
+    "static/media/Frame15.png": "/task-metabnb/static/media/Frame15.f34dd1a02b711be1f9b4.png",
+    "static/media/Frame2.png": "/task-metabnb/static/media/Frame2.b9539eafb1c658809d97.png",
+    "static/media/Frame9.png": "/task-metabnb/static/media/Frame9.fa4c0248ba5298c1b9c1.png",
+    "static/media/Frame5.png": "/task-metabnb/static/media/Frame5.ec96f5e727686e97fb8d.png",
+    "static/media/Frame7.png": "/task-metabnb/static/media/Frame7.8f8b11a4e2d7d5d2e43e.png",
+    "static/media/Frame10.png": "/task-metabnb/static/media/Frame10.a82060013a371d5630e3.png",
+    "static/media/Frame1.png": "/task-metabnb/static/media/Frame1.d3943238bce66dd39ce6.png",
+    "static/media/image6.png": "/task-metabnb/static/media/image6.06c3b9c608930e2e64e8.png",
+    "static/media/image4.png": "/task-metabnb/static/media/image4.10f4199b3ab44fedc249.png",
+    "static/media/image3.png": "/task-metabnb/static/media/image3.6271cf3890d49b0b6201.png",
+    "static/media/image5.png": "/task-metabnb/static/media/image5.957f7e84467a8249ee87.png",
+    "static/media/mbtoken.PNG": "/task-metabnb/static/media/mbtoken.7238226c2a6f256f3747.PNG",
+    "static/media/metamask.PNG": "/task-metabnb/static/media/metamask.578262726d8823957301.PNG",
+    "static/media/opensea.PNG": "/task-metabnb/static/media/opensea.db8b2726e41c67850d42.PNG",
+    "index.html": "/task-metabnb/index.html",
+    "main.992be14b.css.map": "/task-metabnb/static/css/main.992be14b.css.map",
+    "main.26092be1.js.map": "/task-metabnb/static/js/main.26092be1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.992be14b.css",
+    "static/js/main.26092be1.js"
+  ]
+}
