@@ -36,7 +36,7 @@ const Home = ({toggle}) => {
     <nav>
         <div className="navbar">
             <div className="nav-brand">
-                <Link to="/">
+                <Link to="./">
                     <img src={homevector} alt="" className='homevector'/>
                     <img src={hometext} alt="" className='hometext'/>
                 </Link>
