@@ -45,7 +45,7 @@ const Home = ({toggle}) => {
                 <FaBars/>
             </div>
             <div className="nav-link">
-                <Link to="/">Home</Link>
+                <Link to="/task-metabnb">Home</Link>
                 <Link to="/place-to-stay">Place to Stay</Link>
                 <Link to="/nft">NFTs</Link>
                 <Link to="/community">Community</Link>
