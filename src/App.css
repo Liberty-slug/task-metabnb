@@ -424,6 +424,10 @@ color: #000000;
     .section p{
       font-size: 28px;
     }
+    .footer .row{
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: 865px){
@@ -441,5 +445,9 @@ color: #000000;
   }
   .section p{
     font-size: 28px;
+  }
+  .footer .row{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
   }
 }
